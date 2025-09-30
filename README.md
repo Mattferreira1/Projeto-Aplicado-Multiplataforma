@@ -1,5 +1,19 @@
 # Projeto-Aplicado-Multiplataforma
+A proposta do projeto é o desenvolvimento de uma plataforma digital
+multiplataforma (web e mobile/PWA) voltada para microempreendedores, com o
+objetivo de facilitar o controle financeiro do negócio.O sistema permitirá que o
+usuário registre receitas e despesas, classifique por categorias, e acompanhe
+relatórios automáticos de lucro líquido e margem de lucro para ajudar o
+microempreendedor a tomar decisões mais assertivas na gestão de seus
+recursos.A finalidade principal é fornecer uma ferramenta simples, acessível e
+segura que apoie o microempreendedor no dia a dia, ajudando a organizar as
+finanças, visualizar resultados de forma clara e planejar o crescimento de forma
+sustentável.
 
+Proposta: criar um sistema de gestão financeira prático, intuitivo e
+multiplataforma.
+Finalidade: auxiliar microempreendedores no controle de gastos, geração de
+relatórios e melhoria da saúde financeira do negócio.
 
 ## 1. Requisitos Funcionais e Não-Funcionais
 ### REQUISITOS FUNCIONAIS (RF):
