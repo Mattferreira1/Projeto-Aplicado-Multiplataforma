@@ -1,8 +1,4 @@
-## Modelagem do Banco de Dados (Diagrama ER simplificado)
-# Entidades:
-- USER(id, email, senhaHash, nome, cnpj, setor, createdAt)
-- CATEGORY(id, userId, name, type)
-
+# Modelagem do Banco de Dados (Diagrama ER simplificado)
 
 # Preview
 ![alt text](image.png)
